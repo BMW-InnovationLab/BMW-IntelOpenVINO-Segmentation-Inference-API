@@ -1,0 +1,5 @@
+opencv-python==4.2.0.34
+python-monitors==0.1.1
+gunicorn==20.0.4
+fastapi[all]==0.63.0
+Pillow==8.2.0
